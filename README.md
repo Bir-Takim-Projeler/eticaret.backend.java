@@ -4,3 +4,4 @@
 3 - cd ..
 4 - cd user
 5 - mvn spring-boot:run
+6 - test
